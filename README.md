@@ -1,5 +1,7 @@
 # LibGit2Sharp
 
+[![Join the chat at https://gitter.im/GeertvanHorrik/libgit2sharp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/GeertvanHorrik/libgit2sharp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **LibGit2Sharp brings all the might and speed of [libgit2][libgit2], a native Git implementation, to the managed world of .Net and Mono.**
 
  [libgit2]: http://libgit2.github.com/
